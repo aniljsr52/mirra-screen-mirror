@@ -55,7 +55,7 @@
 
 | Version | Chip | Download |
 |---------|------|----------|
-| 1.0.0   | Apple Silicon (M1/M2/M3/M4) | [Mirra-1.0.0-arm64.dmg](https://github.com/sukushw/mirra-screen-mirror/releases/download/v1.0.0/Mirra-1.0.0.dmg) |
+| 1.0.0   | Apple Silicon (M1/M2/M3/M4) | [Mirra-1.0.0-arm64.dmg](https://github.com/aniljsr52/mirra-screen-mirror/releases/download/v1.0.0/Mirra-1.0.0.dmg) |
 
 > **Windows & Linux** packages coming soon.
 
